@@ -1,4 +1,4 @@
-# Print, Puts, and Return
+# Puts, Print and Return
 
 ## Overview
 
